@@ -1,0 +1,37 @@
+    /* .container{
+        width: 60%;
+        height: 60%;
+        margin-left: 20%;
+        margin-right: 20%;
+
+
+    } */
+
+.Card{
+    width: 100%;
+    
+    /* background: url(/src/assets/img/cardnew.png); */
+    border-radius: 40px;
+       
+}
+
+.Frame90{
+    margin-top: 120px;
+    
+}
+.Frame91{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.Frame92{
+    position: relative;
+    text-align: left;
+    margin-left: 25%;
+    margin-top: -30%;
+    color: white;
+}
+
+.Rekening{
+    color: white;
+}

@@ -1,0 +1,26 @@
+.header-main{
+    Font-family: IBM Plex Sans;
+    background-color: white;
+    border-bottom: 6px solid #0A6EC7;
+    color: black;
+}
+
+.header-main h4{
+    Font-family: IBM Plex Sans;
+    Font-style: Normal;
+    Font-size: 24px;
+    Line-height: 32px;
+    /* Line-height: 100%; */
+    text-align: Left;
+    Vertical-align: Top;
+    color: black;
+    margin-left: 50px;
+}
+
+.header-main h5{
+    Font-family: IBM Plex Sans;
+    margin-top: -25px;
+    margin-left: 175px;
+    color: black;
+    font-style: normal;
+}

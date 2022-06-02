@@ -1,0 +1,63 @@
+.text{
+    text-align: center;
+    /*display: flex;*/
+    align-items: center;
+    padding-top: 30px;
+}
+.text-1{
+    /*position: absolute;*/
+/* width: 559px; */
+/* height: 64px; */
+left: 441px;
+top: 150px;
+
+/* Heading/Large */
+
+font-family: IBM Plex Sans;
+font-style: normal;
+
+font-size: 50px;
+
+/* identical to box height */
+
+/*display: flex;*/
+/*align-items: center;*/
+text-align: center;
+
+color: #000000;
+}
+
+.text-2{
+    /*position: absolute;*/
+/* width: 447px; */
+/* height: 24px; */
+left: 525px;
+top: 250px;
+
+/* Body/1 */
+
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+
+/*display: flex;*/
+/*align-items: center;*/
+text-align: center;
+
+color: #000000;
+}
+.PageCard{
+    /* width: 80%;
+    height: 80%; */
+    text-align: center;
+    margin-top: -300px;
+    margin-bottom: 400px;
+    /* position: relative; */
+    
+    
+}
+
+

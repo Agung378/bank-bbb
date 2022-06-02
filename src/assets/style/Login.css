@@ -1,0 +1,176 @@
+.header{
+    background: #500388;
+   /* Width:1440px; */
+Height:100px;
+Padding:12px, 40px, 12px, 40px;
+justify-content:space-between;
+Gap: 919px;
+mix-blend-mode: Pass-through;
+position:absolute;
+}
+
+.logo h3{
+
+
+Font-family: IBM Plex Sans;
+Font-style: Bold;
+Font-size: 32px;
+Line-height: 42px;
+Line-height: 100%;
+text-align: Left;
+Vertical-align: Top;
+letter-spacing: 1px;
+color:#FFFFFF;
+margin-left: 50px;
+
+
+
+
+
+}
+.logo h5{
+
+
+    Font-family: IBM Plex Sans;
+    Font-style: Medium;
+    Font-size: 16px;
+    Line-height: 26px;
+    Line-height: 100%;
+    text-Align: Left;
+    Vertical-align: Top;
+    color:#FFFFFF;
+    margin-left: 50px;
+ 
+    
+    }
+.logo-image{
+      
+        font-size: 16px;
+       color: white;
+       padding: 5px;
+       Font-style: Bold;
+        Font-family: IBM Plex Sans;  
+  
+     
+    }
+    .colom1{
+        Font-family: IBM Plex Sans;
+        Font-style: Light;
+        Font-size: 62px;
+        Line-height: 81px;
+        Line-height: 100%;
+        text-Align: Left;
+        Vertical-align: Center;
+        Letter-spacing: 2px;
+        padding-top:200px;
+    }
+    .colom1 h1{
+        font-size: 62px;
+        line-height: 80px;
+        letter-spacing: 1px;
+        margin-left: 50px;
+    }
+    .colom2{
+        /* display: flex;
+        flex-direction: column;
+        align-items: flex-start; */
+        background: #EBEBEB;
+        height: 380px;
+        /* width: 400px; */
+        /* left: 911px; */
+        top: 0px;
+        border-radius: 8px;
+        padding: 40px;
+        /* margin-top: 90px; */
+      
+  
+        
+        
+    }
+    .colom2 h6{
+        height: 32px;
+        /* width: 276px; */
+        /* left: 40px; */
+        top: 40px;
+        border-radius: nullpx;
+        Font-family: IBM Plex Sans;
+Font-style: Regular;
+Font-size: 20px;
+Line-height: 24px;
+/* Line-height: 80%; */
+text-Align: Left;
+Vertical-align: Center;
+padding-left: 20px;
+    }
+    .form-label{
+        padding: 10px;
+        Font-family: IBM Plex Sans;
+        Font-style: Regular;
+Font-size: 18px;
+Line-height: 42px;
+Line-height: 103%;
+text-Align: Left;
+Vertical-align: Center;
+padding-left: 20px;
+
+
+    }
+    .form-label input{
+        border: 1px solid #999999;
+border-radius: 5px;
+height: 40px;
+width: 130%;
+padding: 10px;
+margin-top: 10px;
+    }
+    .submit{
+        background: #8A05BE;
+        color: #FFFFFF;
+     
+
+margin-left: 20px;
+height: 48px;
+width: 290px;
+left: 40px;
+top: 342px;
+border-radius: 8px;
+padding: 12px, 16px, 12px, 16px;
+
+    }
+    .section{
+        background:#999999;
+        margin-top: 90px;
+width: auto;
+        height: 150px;
+left: 10px;
+top: 20px;
+border-radius: 6px;
+padding: 10px;
+
+    }
+    .section h3{
+
+color: #FFFFFF;
+Font-family: IBM Plex Sans;
+Font-style: Light;
+Font-size: 50px;
+Letter-spacing: 1px;
+padding-top: 30px;
+    }
+
+    .footer{
+        background:#22014C;
+       /* Width:1440px; */
+    Height: 100px;  
+    /* Padding:12px, 40px, 12px, 40px; */
+    /* justify-content:space-between; */
+    /* Gap: 919px; */
+   font-size: 10px;
+   padding-top: 0px;
+        
+   
+    color: #FFFFFF;
+    }
+.table {
+    Font-family: IBM Plex Sans;
+}

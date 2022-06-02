@@ -1,0 +1,40 @@
+
+.belumaktif img{
+   
+    width: 400px;
+   /* margin-top: 40px; */
+   margin-left: 370px;
+ 
+}
+
+.statustext h6{
+   
+    margin-left: 382px;
+    margin-top: -190px;
+    color: white;
+    margin-bottom: 200px;
+}
+
+
+.tablee,tr, td{
+   
+    margin-left: 382px;
+    margin-top: -190px;
+   
+    padding-top: 10px;
+    margin-bottom: 200px;
+  
+   
+/* width: 231px; */
+    border: none;
+
+}
+.aktifv{
+    margin-top: 10px;
+    margin-left: 350px;
+}
+.aktivate tr td{
+    color:black;
+padding-left: 20px;
+left: 800px;
+}

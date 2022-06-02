@@ -1,0 +1,102 @@
+.Navbar-menu{
+  width: 100%;
+}
+.Navbar{
+
+background-color: none;
+width: 100%;
+display: flex;
+justify-content: start;
+align-items: center;
+margin-bottom: 0px;
+margin-top: 0px;
+}
+
+.menu-bars{
+  font-family: IBM Plex Sans;
+  margin-left: 0px;
+margin-top: 20px;
+margin-right: 0px;
+/*background-color: white; */
+  color: black;
+  
+display: flex;
+
+font-size: 1.5rem;
+}
+
+
+.nav-menu{
+  font-family: IBM Plex Sans;
+  background-color: white;
+  width: 250px;
+  height:0;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 0;
+  right: 100%;
+  transition: 850ms;
+  margin-top: 0px;
+  margin-left: -5px;
+  
+}
+.nav-menu.active{
+  left: 0;
+  transition: 350ms;
+}
+
+.nav-text{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 0px 0px 20px 16px;
+  list-style: none;
+  height: 60px;
+  background-color: white;
+}
+
+.nav-text a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  width: 95%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0;
+  border-radius: 4px;
+}
+
+.nav-text a:hover{
+  background-color: whitesmoke;
+  color: black;
+}
+
+.nav-menu-items{
+  width: 100%;
+}
+
+.nav-toggle{
+  background-color: white;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  list-style: none;
+  font-size: 1.5rem;
+}
+
+.span{
+  margin-left: 16px;
+}
+.text{
+  margin-top: -8px;
+  margin-left: 15px;
+  color: black;
+}
+.menu-text{
+  margin-top: -10px;
+  margin-left: 6px;
+}
